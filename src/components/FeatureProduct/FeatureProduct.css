@@ -1,7 +1,7 @@
 .productTitle{
     margin-top: 80px;
     position: relative;
-/*     border: 1px solid rgb(255, 0, 0); */
+    border: 1px solid rgb(255, 0, 0);
     
 }
 .checked {
@@ -9,6 +9,7 @@
 }
 .featureProduct .sneakerTitle {
     position: absolute;
+    text-transform: uppercase;
     top: 50%;
     left: 0;
     /* left: 50%;
@@ -48,8 +49,8 @@
  }
 
 .prodSec{
-    margin-top: 100px;
-    height:1000px;
+    margin-top: 200px;
+    margin-bottom: 200px;
     /* border: 1px solid red; */
     width: 100%;
 
