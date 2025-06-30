@@ -6,8 +6,8 @@ This is a simple and responsive landing page made for a shoe brand using **React
 
 ---
 
+ ## 📖 About This Project
 
-📖 About This Project
 What I Built:
 This is a modern and responsive Shoe Brand Landing Page built using React JS. It includes a clean hero section, a product showcase grid, and a responsive layout that adapts well to all screen sizes.
 
