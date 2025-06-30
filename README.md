@@ -27,7 +27,7 @@ Basic layout design and image optimization
 Deploying a React project on Vercel
 
 Improving overall UI/UX design and consistency
-
+---
 ### 🛠️ Technologies Used
 
 * React JS
